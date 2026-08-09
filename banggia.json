@@ -27,5 +27,34 @@
     "button_text": "ĐĂNG KÝ",
     "button_link": "https://my.idminecraft.com",
     "is_secondary": true
+  },
+  {
+    "badge": "PHỔ BIẾN",
+    "title": "Gói Standard (Game Gốc)",
+    "price": "15.000₫",
+    "unit": "/lượt",
+    "features": [
+      "Cấp ID Apple tải Minecraft PE (Bản quyền US/VN)",
+      "Cam kết phiên bản hiện tại từ Mojang",
+      "Tải tốc độ cao trực tiếp từ máy chủ Apple",
+      "Thời gian mượn ID: 3 giờ"
+    ],
+    "button_text": "THUÊ NGAY",
+    "button_link": "https://my.idminecraft.com",
+    "is_secondary": false
+  },
+  {
+    "badge": "HỖ TRỢ UPDATE",
+    "title": "Gói Cập Nhật Phiên Bản",
+    "price": "25.000₫",
+    "unit": "/lượt",
+    "features": [
+      "Hỗ trợ 1 lần update phiên bản mới Minecraft",
+      "Cập nhật nhanh chóng, an toàn và bảo mật",
+      "Đội ngũ hỗ trợ trực tiếp qua nhóm chat"
+    ],
+    "button_text": "ĐĂNG KÝ",
+    "button_link": "https://my.idminecraft.com",
+    "is_secondary": true
   }
 ]
