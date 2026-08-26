@@ -1,1 +1,23 @@
-i
+[
+    {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTyLf5ayE2DNkQ0zc-mBxjXMeuOGCFxxcHFp9bI92k1w&s=10",
+    "name": "File Tiếng Việt Minecraft ",
+    "shortDesc": "ngôn ngữ Tiếng Việt cho Minecraft PE ios & android",
+    "description": "Với giao diện và nội dung game được dịch sang tiếng Việt, người chơi sẽ dễ dàng hiểu và nắm bắt các tính năng, nhiệm vụ cũng như các thông tin trong game. Điều này giúp tăng cường trải nghiệm chơi game, giảm thiểu sự nhầm lẫn và khó hiểu.\n\nDễ dàng tiếp cận và tương tác\n\nKhi Minecraft PE được cài đặt tiếng Việt, người chơi sẽ dễ dàng tìm hiểu, điều khiển và tương tác với các tính năng trong game. Điều này đặc biệt hữu ích đối với những người chơi không thạo tiếng Anh hoặc muốn tận hưởng trải nghiệm chơi game bằng tiếng mẹ đẻ.\n\nTăng tính hấp dẫn và thu hút\n\nViệc cài đặt tiếng Việt cho Minecraft PE sẽ giúp game trở nên gần gũi và dễ tiếp cận hơn với người chơi Việt Nam. Điều này có thể thu hút thêm nhiều người chơi mới, đặc biệt là những người chưa quen với các game có giao diện bằng tiếng Anh.\nCách kích hoạt khi tải về:\n Vào Settings -> Global Resources -> Chọn gói tiếng Việt và bấm Activate",
+    "link": "http://idminecraft.com/tiengviet-minecraft.mcpack"
+},
+{
+    "image": "https://media.forgecdn.net/attachments/1293/88/1-5-jpg.jpg",
+    "name": "Shaders rực rỡ của Sildur",
+    "shortDesc": "",
+    "description": "Sildur's Vibrant Shaders là một bộ mod đồ họa nổi tiếng cho Minecraft từ năm 2012, giúp làm đẹp ánh sáng, thêm hiệu ứng bóng đổ, nước chân thực và hỗ trợ từ máy yếu đến máy mạnh\nTải và cài đặt Iris hoặc Optifine tương thích với phiên bản Minecraft của bạn \n Tải file .zip của Sildur.Mở game, vào mục Options -> Video Settings -> Shaders.Bấm Shader Folder rồi bỏ file .zip vừa tải vào đó, sau đó chọn tên gói trong game.",
+    "link": "https://drive.google.com/file/d/1-FMB1kifmRUrMPiPv59hTEpmmuTa_pbT/view?usp=drivesdk"
+},
+{
+    "image": "https://cdn2.fptshop.com.vn/unsafe/800x0/minecraft_pe_1_19_10_tieng_viet_9_d4f9eabd33.jpg",
+    "name": "Kích hoạt tài khoản idapple share",
+    "shortDesc": "Website lấy idapple miễn phí/ có phí",
+    "description": "Website kích hoạt tài khoản idapple miễn phí và có phí\nNếu bạn có mã kích hoạt tài khoản hãy nhấn vào đây để kích hoạt tài khoản idapple nhé",
+    "link": "https://my.idminecraft.com/idapple"
+}
+]
