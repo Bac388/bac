@@ -1,0 +1,2 @@
+tên|5|uy tín|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ37Ats4VdMxvkpWXyjUkhq3J5f8LnEFB8g0zUarFgTj2mIcpWeWa5_ioM&s
+tên1|4,5|uy tín|https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSxzvxjbAk8nqBHYBmTniNl0uDvwzfrMVzBSTsVeCkUA&s=10ANd9GcQ37Ats4VdMxvkpWXyjUkhq3J5f8LnEFB8g0zUarFgTj2mIcpWeWa5_ioM&s
